@@ -1,4 +1,4 @@
-# 2024/2025
+# 2025/2026
 
 Kurz **Programování na Nuselské** bude probíhat od 18. září 2025
 a volně navazuje na kurz **začátečníci**. Je určen pro děti druhých
