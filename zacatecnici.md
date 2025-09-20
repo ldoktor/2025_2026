@@ -22,6 +22,14 @@ při studiu jakéhokoliv oboru.
 
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
+## 1. hodina (2025-09-18)
+
+<a href="zacatecnici-1-01-beebot.jpg">
+    <img align="right" src="zacatecnici-1-01-beebot-small.jpg" style="height:85px">
+</a>
+
+* Seznámení s Beeboty - většina znala, takže jsme se rovnou vrhnuli na herní plán
+* Přihlášení do [code.org](https://www.code.org) pomocí obrázkových hesel a pár lekcí z "tančení párty"
 
 * * * * * * * * *
 

@@ -30,5 +30,15 @@ při studiu jakéhokoliv oboru.
 
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
+## 1. hodina (2025-09-18)
+
+<a href="pokrocili-1-01-html.jpg">
+    <img align="right" src="pokrocili-1-01-html-small.jpg" style="height:85px">
+</a>
+
+* Seznámení s prvním tématem - HTML stránky
+* Ukázková stránka s různými prvky a hledání easter-eggů [zde](https://ldoktor.github.io/assets/html/)
+  * Pokud rodiče dovolí, můžete hledat dále. Všechny easter-eggy nebyly ještě nalezeny
+* Přihlášení do [code.org](https://www.code.org) pomocí hesel
 
 <img align="right" src="../media/robots_bottom.jpg">
