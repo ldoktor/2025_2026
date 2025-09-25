@@ -41,4 +41,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Pokud rodiče dovolí, můžete hledat dále. Všechny easter-eggy nebyly ještě nalezeny
 * Přihlášení do [code.org](https://www.code.org) pomocí hesel
 
+## 2. hodina (2025-09-25)
+
+<a href="pokrocili-1-02-html.jpg">
+    <img align="right" src="pokrocili-1-02-html-small.jpg" style="height:85px">
+</a>
+
+* [code.org](https://www.code.org)
+  * Co jsou to tagy; některé jsme si vyzkoušeli použít
+  * ``<head></head>`` - hlavička (obecné informace pro prohlížeč)
+  * ``<body></head>`` - tělo (to co vidí uživatel)
+  * ``<h1></h1>`` - (headding) velký nadpis (dále pak menší a menší pod-nadpisy `<h2><h3><h4>...`)
+  * ``<p></p>`` - (paragraph) odstavec (html ignoruje mezery a entery při formátování)
+
 <img align="right" src="../media/robots_bottom.jpg">

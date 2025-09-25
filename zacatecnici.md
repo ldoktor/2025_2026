@@ -31,6 +31,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Seznámení s Beeboty - většina znala, takže jsme se rovnou vrhnuli na herní plán
 * Přihlášení do [code.org](https://www.code.org) pomocí obrázkových hesel a pár lekcí z "tančení párty"
 
+## 2. hodina (2025-09-25)
+
+<a href="zacatecnici-1-02-code.jpg">
+    <img align="right" src="zacatecnici-1-02-code-small.jpg" style="height:85px">
+</a>
+
+* [code.org](https://www.code.org)
+  * Něco málo z "taneční párty"
+  * Bludiště s "Angry birds"
+* Jako zábava na konec jsme se snažili dostat co nejblíže se včelkami k mým nohám bez kolize
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
