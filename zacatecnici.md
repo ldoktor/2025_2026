@@ -42,6 +42,21 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Bludiště s "Angry birds"
 * Jako zábava na konec jsme se snažili dostat co nejblíže se včelkami k mým nohám bez kolize
 
+## 3. hodina (2025-10-02)
+
+<a href="zacatecnici-1-03-beebot.jpg">
+    <img align="right" src="zacatecnici-1-03-beebot-small.jpg" style="height:85px">
+</a>
+
+* Beeboti
+  * Umístění na mapě A3, B6, E4, ...
+  * Směr N - North (sever), S - South (jih), W - West (západ), E - East (východ)
+  * Přesné určení na mapě je tedy A3E, B6W, E4W, ...
+  * Někteří zkoušeli složitější pohyb po mapě s omezeními či opakováním
+* [code.org](https://www.code.org)
+  * Bludiště s "Angry birds"
+  * Někteří již "Ladí se Scratem"
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

@@ -54,4 +54,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * ``<h1></h1>`` - (headding) velký nadpis (dále pak menší a menší pod-nadpisy `<h2><h3><h4>...`)
   * ``<p></p>`` - (paragraph) odstavec (html ignoruje mezery a entery při formátování)
 
+## 3. hodina (2025-10-02)
+
+* [code.org](https://www.code.org)
+  * Opakovací hodina (pro nemocné)
+* Ti kdož nepotřebovali opakovat se věnovali psaní všemi deseti, zonerai, skřítkům a podobným
+
 <img align="right" src="../media/robots_bottom.jpg">
