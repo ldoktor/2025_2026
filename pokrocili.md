@@ -60,4 +60,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Opakovací hodina (pro nemocné)
 * Ti kdož nepotřebovali opakovat se věnovali psaní všemi deseti, zonerai, skřítkům a podobným
 
+## 4. hodina (2025-10-09)
+
+<a href="pokrocili-1-04-code.jpg">
+    <img align="right" src="pokrocili-1-04-code-small.jpg" style="height:85px">
+</a>
+
+* [code.org](https://www.code.org)
+  * Procvičování tagů nadpisu ``<h1>Nadpis</h1>``
+  * Seznámení se seznamem ``<ul><li>prvek1</li><li>prvek2</li></ul>``
+  * Zlepšování se v odhalování chyb (začnu jeden tag, ukončím jiný; ukončím tag, který nezačal; přeházený vstup; ...)
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -57,6 +57,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Bludiště s "Angry birds"
   * Někteří již "Ladí se Scratem"
 
+## 4. hodina (2025-10-09)
+
+* [code.org](https://www.code.org)
+  * Bludiště s "Angry birds", "Ladění se Scratem", někdo i "Sbírání pokladů s Laurelem"
+* Ozobot
+  * Seznámení s robůtkem, který sleduje čáru a umí "číst" barvičky
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
