@@ -1,0 +1,98 @@
+// Driver Mission Script v0.1a
+
+##########################################################
+# Demonstrativni mise na hodinu programovani       	     #
+# By Lukas Doktor                                        #
+##########################################################
+
+//************** INICIALIZACE *****************
+// Zastav hrace dokud se vse nenacte...
+StopPlayer
+
+// Nacti svet, udalosti a mapu
+LoadMap "Miami_01.lev"
+EventScript "Miami_19.des"
+//OverheadMap "Maimi_00.map"
+// Ukazatele poskozeni/policie
+DamageBarId 194
+FelonyBarId 195
+// Nastav zpravu pri selhani mise
+SmashedMessageId 187
+FailedMessage "Nestihl jsi to!"
+
+// Pocasi (mozna kombinace)
+//Night
+//Dusk
+//Raining
+//Lightning
+//Snow
+
+// Co to asi bude?
+EnablePlayerDamage
+//DisablePlayerDamage
+
+// Hracovo auto
+PlayerCarType 1
+//PlayerCarType 4 // Sportovni
+//PlayerCarType 7 // Cadilac
+//PlayerCarType 12 // Jaguar
+
+
+#####################
+# Dostan se do doku #
+#####################
+// Casovac
+Countdown 180
+
+// Policie
+SetMaximumCops 1
+Cops_on
+Cops_SpeedScale 500
+Cops_PowerScale 500
+
+// Pocatecni poloha
+SetPlayerPosition -255, 418712 // Parkoviste
+//SetPlayerPosition 283594, -50558  // Skryta ulicka dolni leve mesto
+//SetPlayerPosition 170000, 160000 // Doky
+SetPlayerYRotation 2091
+
+// Vse pripraveno, hrac muze jet
+ReleasePlayer
+
+// Zadej instrukce
+InformPlayer 10, "Zajed do doku pro balicek a na nic se neptej!"
+
+// Nastav cil trasy
+SetTarget 1 750, 170000, 160000 // Doky
+EnableTarget 1
+Set Objective 2
+
+// Cekej na splneni podminky (2 = cil trasy)
+WaitForObjectiveComplete
+
+################
+# Utec policii #
+################
+
+// Policie
+SetMaximumCops 8
+ForceFelonyRating 10
+Cops_on
+Cops_SpeedScale 5000
+Cops_PowerScale 5000
+AddCivCar 9,0,2,0,1035,165000, 165000  // Tajnej
+MustBeHidden 1
+
+// Dalsi cil
+InformPlayer 10, "FBI, zdrhej!"
+SetTarget 1 750, 283594, -50558 // Skryta ulicka dolni leve mesto
+EnableTarget 1
+Set Objective 2
+
+// Cekej na splneni podminky (2 = cil trasy)
+WaitForObjectiveComplete
+
+// Chvilicku pockej
+wait 2
+// Ukonci misi
+MissionEnd

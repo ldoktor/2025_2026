@@ -64,6 +64,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ozobot
   * Seznámení s robůtkem, který sleduje čáru a umí "číst" barvičky
 
+## 5. hodina (2025-10-16)
+
+<a href="zacatecnici-1-05-ozobot.jpg">
+    <img align="right" src="zacatecnici-1-05-ozobot-small.jpg" style="height:85px">
+</a>
+
+* Beeboti
+  * Zápis programu: ``$START $POKYN1 $POKYN2 ... $CÍL``
+  * Např.: ``A1N ↻ ↻ ↑ ↑ ↺ A3W``
+* Ozobot
+  * testování na větší ploše, zklamaly nás fixy, takže se ozobotovi nechtělo moc poslouchat
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

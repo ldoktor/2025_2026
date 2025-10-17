@@ -71,4 +71,25 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Seznámení se seznamem ``<ul><li>prvek1</li><li>prvek2</li></ul>``
   * Zlepšování se v odhalování chyb (začnu jeden tag, ukončím jiný; ukončím tag, který nezačal; přeházený vstup; ...)
 
+## 5. hodina (2025-10-16)
+
+<a href="pokrocili-1-05-driver.jpg">
+    <img align="right" src="pokrocili-1-05-driver-small.jpg" style="height:85px">
+</a>
+
+* Praktická ukázka postarší hry
+  * Demoverze k dispozici například [zde](https://archive.org/details/DriverDemo)
+  * Zklkamaly nás počítače, hra fungovala pouze na učitelském, proto jsme využili učitelský a můj notebook; po krátkém hledání to vypadá na problémy s Windows 10, proto doporučuji GNU/Linux (wine/lutris/proton), případně mohou pomoci ovladače [dgVoodoo](https://www.pcgamingwiki.com/wiki/DgVoodoo_2), pokud bude čas, můžeme někdy opět vyzkoušet
+  * Ukázali jsme si lehce adresářovou strukturu:
+    * ``Audio/`` - Zvuky, můžeme nahradit vlastními
+    * ``Levels/`` - Mapy, nelehké úpravy, takže nezajímavé
+    * ``Scripts/Events`` - Události, které se mohou dít když cestujeme po mapě, nebo je spouštět - zajímavé, ale moc toho neuděláme
+    * ``Scripts/Missions`` - Definice misí - nejzajímavější, v demoverzi se vždy spustí skript ``mission661.dms`` a můžeme si ji trošku upravit
+  * Nejzajímavějším zjištěním byl prostý formát definice misí a fakt, že demoverze nám dovolí jakékoliv úpravy v souboru ``Scripts/Missions/mission661.dms``, například:
+    * Vypnutí časovače (``Countdown``), abychom získali víc času na hraní
+    * Změna cíle (``SetTarget 0,1,917,398517``), čímž se vyhneme splnění mise a ukončení hry
+    * Vypnutí ničení (``DisablePlayerDamage``), čímž nás tolik netrápí policisté
+    * Případně vypnutí policistů kompletně (``cops_off``) a můžeme jezdil dle libosti
+  * Následně jsme si vyzkoušeli splnit [upravenou misi](driver.dms) (v základu nesplnitelná, je nutnost upravit podmínky, kreativitě se meze nekladou)
+
 <img align="right" src="../media/robots_bottom.jpg">
