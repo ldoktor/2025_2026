@@ -76,6 +76,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ozobot
   * testování na větší ploše, zklamaly nás fixy, takže se ozobotovi nechtělo moc poslouchat
 
+## 6. hodina (2025-10-23)
+
+* [code.org](https://www.code.org)
+  * Vysvětlili jsme si bloček "opakuj", nejprve na písničce, následně s chozením po třídě a poté v code.org
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

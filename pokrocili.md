@@ -92,4 +92,51 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * Případně vypnutí policistů kompletně (``cops_off``) a můžeme jezdil dle libosti
   * Následně jsme si vyzkoušeli splnit [upravenou misi](driver.dms) (v základu nesplnitelná, je nutnost upravit podmínky, kreativitě se meze nekladou)
 
+## 6. hodina (2025-10-23)
+
+* [code.org](https://www.code.org)
+  * Ukázali jsme si CSS - kaskádové styly, které se používají pro definici stylu (barvy, pozice, efektů) na HTML stránce
+  * Styl můžeme "importovat" pomocí ``<link rel="stylesheet" href="nas_styl.css">`` v hlavičce naší HTML stránce
+  * Následně v tomto dokumentu můžeme definovat styl jednotlivým elementům na základě typu/tagu/třídy, např.:
+
+stranka.html
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Hlavička stránky, sem jdou informace pro počítač -->
+  <link rel="stylesheet" href="nas_styl.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <!-- Tělo naší stránky, sem jdou veci co chceme uživateli zobrazi -->
+  <h1>Nadpis</h1>
+  <p>Nějaký text</p>
+</body>
+```
+
+nas_styl.css
+
+```css
+/* Nastavíme pozadí těla stránky */
+body {
+  background-color: lightblue;
+}
+
+/* Nastavíme barvu, zarovnání a velikost písma nadpisu h1 */
+h1 {
+  color: rgb(0, 255, 128);
+  font-size: 70px
+  text-align: center;
+}
+
+/* Nastavíme druh, barvu a velikost písma textu odstavce p */
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: #ffcc11
+}
+```
+
 <img align="right" src="../media/robots_bottom.jpg">
