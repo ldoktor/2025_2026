@@ -32,9 +32,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina (2025-09-18)
 
-<a href="pokrocili-1-01-html.jpg">
-    <img align="right" src="pokrocili-1-01-html-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-01-html-small.jpg" data-full="pokrocili-1-01-html.jpg" style="height:85px" class="obrazek">
 
 * Seznámení s prvním tématem - HTML stránky
 * Ukázková stránka s různými prvky a hledání easter-eggů [zde](https://ldoktor.github.io/assets/html/)
@@ -43,9 +41,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 2. hodina (2025-09-25)
 
-<a href="pokrocili-1-02-html.jpg">
-    <img align="right" src="pokrocili-1-02-html-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-02-html-small.jpg" data-full="pokrocili-1-02-html.jpg" style="height:85px" class="obrazek">
 
 * [code.org](https://www.code.org)
   * Co jsou to tagy; některé jsme si vyzkoušeli použít
@@ -62,9 +58,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 4. hodina (2025-10-09)
 
-<a href="pokrocili-1-04-code.jpg">
-    <img align="right" src="pokrocili-1-04-code-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-04-code-small.jpg" data-full="pokrocili-1-04-code.jpg" style="height:85px" class="obrazek">
 
 * [code.org](https://www.code.org)
   * Procvičování tagů nadpisu ``<h1>Nadpis</h1>``
@@ -73,9 +67,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 5. hodina (2025-10-16)
 
-<a href="pokrocili-1-05-driver.jpg">
-    <img align="right" src="pokrocili-1-05-driver-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-05-driver-small.jpg" data-full="pokrocili-1-05-driver.jpg" style="height:85px" class="obrazek">
 
 * Praktická ukázka postarší hry
   * Demoverze k dispozici například [zde](https://archive.org/details/DriverDemo)
@@ -145,5 +137,14 @@ p {
   * Distribuce hesel
   * Neúspěšný pokus o využití WebTop tenkých klientů skrz prohlížeč. Loni nám to jakž-takž fungovalo, letos byly latence příliš veliké (prostě se to sekalo natolik, že se to nedalo použít). Budeme si muset vystačit s Windows a portable verzemi programů.
   * Vytvoření účtů na lokálně hostovaném Gogs (jednoduchá alternativa github/gitlab, využijeme v dalších hodinách)
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">

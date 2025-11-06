@@ -24,18 +24,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina (2025-09-18)
 
-<a href="zacatecnici-1-01-beebot.jpg">
-    <img align="right" src="zacatecnici-1-01-beebot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-01-beebot-small.jpg" data-full="zacatecnici-1-01-beebot.jpg" style="height:85px" class="obrazek">
 
 * Seznámení s Beeboty - většina znala, takže jsme se rovnou vrhnuli na herní plán
 * Přihlášení do [code.org](https://www.code.org) pomocí obrázkových hesel a pár lekcí z "tančení párty"
 
 ## 2. hodina (2025-09-25)
 
-<a href="zacatecnici-1-02-code.jpg">
-    <img align="right" src="zacatecnici-1-02-code-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-02-code-small.jpg"  data-full="zacatecnici-1-02-code.jpg" style="height:85px" class="obrazek">
 
 * [code.org](https://www.code.org)
   * Něco málo z "taneční párty"
@@ -44,9 +40,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 3. hodina (2025-10-02)
 
-<a href="zacatecnici-1-03-beebot.jpg">
-    <img align="right" src="zacatecnici-1-03-beebot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-03-beebot-small.jpg" data-full="zacatecnici-1-03-beebot.jpg" style="height:85px" class="obrazek">
 
 * Beeboti
   * Umístění na mapě A3, B6, E4, ...
@@ -66,9 +60,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 5. hodina (2025-10-16)
 
-<a href="zacatecnici-1-05-ozobot.jpg">
-    <img align="right" src="zacatecnici-1-05-ozobot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-05-ozobot-small.jpg" data-full="zacatecnici-1-05-ozobot.jpg" style="height:85px" class="obrazek">
 
 * Beeboti
   * Zápis programu: ``$START $POKYN1 $POKYN2 ... $CÍL``
@@ -83,9 +75,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 7. hodina (2025-10-30)
 
-<a href="zacatecnici-1-07-ozobot.jpg">
-    <img align="right" src="zacatecnici-1-07-ozobot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-07-ozobot-small.jpg"  data-full=" zacatecnici-1-07-ozobot.jpg" style="height:85px" class="obrazek">
 
 * Cubetto
   * Seznámaní se s "Kubíkem"
@@ -94,6 +84,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Řešení "stavitelských" úkolů (dostaň břemeno "ještěrkou" sem, odtlač bagrem hromadu cihel, ...)
 
 * * * * * * * * *
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
 nelze děti mladší 6-7 let učit systematické vědy, neboť se nacházejí
