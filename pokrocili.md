@@ -139,4 +139,11 @@ p {
 }
 ```
 
+## 7. hodina (2025-10-30)
+
+* [html stránky](/programovani-html)
+  * Distribuce hesel
+  * Neúspěšný pokus o využití WebTop tenkých klientů skrz prohlížeč. Loni nám to jakž-takž fungovalo, letos byly latence příliš veliké (prostě se to sekalo natolik, že se to nedalo použít). Budeme si muset vystačit s Windows a portable verzemi programů.
+  * Vytvoření účtů na lokálně hostovaném Gogs (jednoduchá alternativa github/gitlab, využijeme v dalších hodinách)
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -81,6 +81,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [code.org](https://www.code.org)
   * Vysvětlili jsme si bloček "opakuj", nejprve na písničce, následně s chozením po třídě a poté v code.org
 
+## 7. hodina (2025-10-30)
+
+<a href="zacatecnici-1-07-ozobot.jpg">
+    <img align="right" src="zacatecnici-1-07-ozobot-small.jpg" style="height:85px">
+</a>
+
+* Cubetto
+  * Seznámaní se s "Kubíkem"
+  * Hra "popiš a najdi" (Kubík se nudí; druhý dojede tam, kde by se Kubík zabavil a vysvětlí, proč to odpovídá zadání)
+* Ozobot
+  * Řešení "stavitelských" úkolů (dostaň břemeno "ještěrkou" sem, odtlač bagrem hromadu cihel, ...)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
