@@ -83,6 +83,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ozobot
   * Řešení "stavitelských" úkolů (dostaň břemeno "ještěrkou" sem, odtlač bagrem hromadu cihel, ...)
 
+## 8. hodina (2025-11-06)
+
+* Cubetto
+  * Složitější trasy s využitím funkcí (dokola, jedním směrem)
+  * Např. ``1x go; 8 bločků: B2 => C3 => D4 => E5``
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

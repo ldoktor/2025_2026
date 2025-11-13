@@ -147,4 +147,17 @@ p {
 <link rel="stylesheet" href="/assets/gallery.css">
 <script src="/assets/gallery.js"></script>
 
+## 8. hodina (2025-11-06)
+
+* [html stránky](/programovani-html)
+  * Úvod do [gitu](/programovani-html/verzovani.html)
+  * Největší boj byla příkazová řádka ``git-bash.exe``:
+    * ``ls`` = zobraz obsah složky *list directory*
+    * ``cd $kam`` = změň adresář *change directory*
+    * ``pwd`` = kde jsem *print working directory*
+  * Z gitu jsme udělali:
+    * ``git init .`` - inicializuj git repozitář v aktuální složce
+    * ``git add $soubor`` - připrav aktuální verzi souboru k začlenění
+    * ``git commit -a`` - zaznamenej připravené soubory jako novou revizi (commit) a připoj změny ve všech dříve přidaných souborech (``-a``)
+
 <img align="right" src="../media/robots_bottom.jpg">
