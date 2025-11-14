@@ -160,4 +160,16 @@ p {
     * ``git add $soubor`` - připrav aktuální verzi souboru k začlenění
     * ``git commit -a`` - zaznamenej připravené soubory jako novou revizi (commit) a připoj změny ve všech dříve přidaných souborech (``-a``)
 
+## 9. hodina (2025-11-13)
+
+<a href="pokrocili-1-09-driver.jpg">
+    <img align="right" src="pokrocili-1-09-driver-small.jpg" style="height:85px">
+</a>
+
+* [html stránky](/programovani-html)
+  * Pokračování v [gitu](/programovani-html/verzovani.html)
+  * Děti dostaly [tahák](https://ldoktor.github.io/programovani-html/git.pdf)
+  * Pro usnadnění navigace jsme využili ``git-gui``
+  * Upravovali jsme demo-misi hry [driver](https://archive.org/details/DriverDemo), zkoumali jsme ``diffy`` (rozdíl od předchozí verze), vytvářeli ``commity`` (zapsané revize s komentářem) a na závěr jsme se ještě zkusili ``checkoutnout`` předchozí verzi a zpět. Všechny změny jsme samozřejmě řádně otestovali.
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -89,6 +89,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Složitější trasy s využitím funkcí (dokola, jedním směrem)
   * Např. ``1x go; 8 bločků: B2 => C3 => D4 => E5``
 
+## 9. hodina (2025-11-13)
+
+<a href="zacatecnici-1-09-pexeso.jpg">
+    <img align="right" src="zacatecnici-1-09-pexeso-small.jpg" style="height:85px">
+</a>
+
+* [code.org](https://www.code.org)
+  * Pokračování a větší důraz na cykly
+* Ozobot
+  * Řešení "stavitelských" úkolů (dostaň břemeno "ještěrkou" sem, odtlač bagrem hromadu cihel, ...)
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
