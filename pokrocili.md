@@ -162,9 +162,7 @@ p {
 
 ## 9. hodina (2025-11-13)
 
-<a href="pokrocili-1-09-driver.jpg">
-    <img align="right" src="pokrocili-1-09-driver-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-09-driver-small.jpg"  data-full="pokrocili-1-09-driver.jpg" style="height:85px" class="obrazek">
 
 * [html stránky](/programovani-html)
   * Pokračování v [gitu](/programovani-html/verzovani.html)

@@ -75,7 +75,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 7. hodina (2025-10-30)
 
-<img align="right" src="zacatecnici-1-07-ozobot-small.jpg"  data-full=" zacatecnici-1-07-ozobot.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-07-ozobot-small.jpg"  data-full="zacatecnici-1-07-ozobot.jpg" style="height:85px" class="obrazek">
 
 * Cubetto
   * Seznámaní se s "Kubíkem"
@@ -91,9 +91,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 9. hodina (2025-11-13)
 
-<a href="zacatecnici-1-09-pexeso.jpg">
-    <img align="right" src="zacatecnici-1-09-pexeso-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-09-pexeso-small.jpg"  data-full="zacatecnici-1-09-pexeso.jpg" style="height:85px" class="obrazek">
 
 * [code.org](https://www.code.org)
   * Pokračování a větší důraz na cykly
