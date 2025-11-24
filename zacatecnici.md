@@ -98,6 +98,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ozobot
   * Řešení "stavitelských" úkolů (dostaň břemeno "ještěrkou" sem, odtlač bagrem hromadu cihel, ...)
 
+## 10. hodina (2025-11-20)
+
+* [Scratch](https://scratch.mit.edu)
+  * Seznámení s prostředím
+* Ozobot
+  * Řešení "stavitelských" úkolů (dostaň břemeno "ještěrkou" sem, odtlač bagrem hromadu cihel, ...)
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

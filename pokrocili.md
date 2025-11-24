@@ -138,15 +138,6 @@ p {
   * Neúspěšný pokus o využití WebTop tenkých klientů skrz prohlížeč. Loni nám to jakž-takž fungovalo, letos byly latence příliš veliké (prostě se to sekalo natolik, že se to nedalo použít). Budeme si muset vystačit s Windows a portable verzemi programů.
   * Vytvoření účtů na lokálně hostovaném Gogs (jednoduchá alternativa github/gitlab, využijeme v dalších hodinách)
 
-<div id="overlay" class="overlay hidden">
-  <span id="prev" class="nav">&#9664;</span>
-  <img id="overlay-img" src="" alt="Obrázek">
-  <span id="next" class="nav">&#9654;</span>
-  <span id="close" class="close">&times;</span>
-</div>
-<link rel="stylesheet" href="/assets/gallery.css">
-<script src="/assets/gallery.js"></script>
-
 ## 8. hodina (2025-11-06)
 
 * [html stránky](/programovani-html)
@@ -169,5 +160,19 @@ p {
   * Děti dostaly [tahák](https://ldoktor.github.io/programovani-html/git.pdf)
   * Pro usnadnění navigace jsme využili ``git-gui``
   * Upravovali jsme demo-misi hry [driver](https://archive.org/details/DriverDemo), zkoumali jsme ``diffy`` (rozdíl od předchozí verze), vytvářeli ``commity`` (zapsané revize s komentářem) a na závěr jsme se ještě zkusili ``checkoutnout`` předchozí verzi a zpět. Všechny změny jsme samozřejmě řádně otestovali.
+
+## 10. hodina (2025-11-20)
+
+* [html stránky](/programovani-html)
+  * Těžká hodina. Podívali jsme se na to jak funguje "upstream development" (vývoj v upstreamu u programů s otevřeným zdrojovým kódem), poslední kapitola z [našeho dokumentu o gitu](/programovani-html/verzovani.html). Cílem hodiny bylo připravit prostředí pro tvorbu našich webových stránek přesně tímto způsobem. Ještě nám chybí přidání upstream repozitářů a budeme se konečně moci věnovat HTML stránkám. Pro zjednodušení jsme využili [vscode](https://code.visualstudio.com/) se kterým se v následujících hodinách více seznámíme.
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">
