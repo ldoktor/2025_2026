@@ -105,6 +105,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ozobot
   * Řešení "stavitelských" úkolů (dostaň břemeno "ještěrkou" sem, odtlač bagrem hromadu cihel, ...)
 
+## 11. hodina (2025-11-27)
+
+<img align="right" src="zacatecnici-1-11-scratch-small.jpg" data-full="zacatecnici-1-11-scratch.jpg" style="height:85px" class="obrazek">
+
+* [Scratch](https://scratch.mit.edu)
+  * Jednoduchá hra [chytni zvířátko](https://scratch.mit.edu/projects/470669556/)
+  * Vyzkoušeli jsme si přidat zvířátko, nechali jsme jej běhat po obrazovce, přidali jsme si proměnnou a po kliknutí jsme proměnnou zvyšovali o 1 (i více) bodů
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

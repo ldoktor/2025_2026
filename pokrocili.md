@@ -166,6 +166,13 @@ p {
 * [html stránky](/programovani-html)
   * Těžká hodina. Podívali jsme se na to jak funguje "upstream development" (vývoj v upstreamu u programů s otevřeným zdrojovým kódem), poslední kapitola z [našeho dokumentu o gitu](/programovani-html/verzovani.html). Cílem hodiny bylo připravit prostředí pro tvorbu našich webových stránek přesně tímto způsobem. Ještě nám chybí přidání upstream repozitářů a budeme se konečně moci věnovat HTML stránkám. Pro zjednodušení jsme využili [vscode](https://code.visualstudio.com/) se kterým se v následujících hodinách více seznámíme.
 
+## 11. hodina (2025-11-27)
+
+* [html stránky](/programovani-html)
+  * Donastavili jsme "upstream" repozitář pomocí ``git remote add upstream $ADRESA``
+  * Prohlédli jsme si adresářovou strukturu projektu
+  * Zkopírovali jsme si template.html a začali tvořit novou stránku o naší hře
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
