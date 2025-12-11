@@ -113,6 +113,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Jednoduchá hra [chytni zvířátko](https://scratch.mit.edu/projects/470669556/)
   * Vyzkoušeli jsme si přidat zvířátko, nechali jsme jej běhat po obrazovce, přidali jsme si proměnnou a po kliknutí jsme proměnnou zvyšovali o 1 (i více) bodů
 
+## 12. hodina (2025-12-04)
+
+* [Scratch](https://scratch.mit.edu)
+  * Přidali jsme si obrázky z flashdisku do projektu betlém a začali je rozmisťovat po "herní" ploše
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

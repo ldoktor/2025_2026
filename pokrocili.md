@@ -173,6 +173,13 @@ p {
   * Prohlédli jsme si adresářovou strukturu projektu
   * Zkopírovali jsme si template.html a začali tvořit novou stránku o naší hře
 
+## 12. hodina (2025-12-04)
+
+* [html stránky](/programovani-html)
+  * Vlastní tvorba popisu oblíbené hry
+  * Někteří stihli i přidat obrázky
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
