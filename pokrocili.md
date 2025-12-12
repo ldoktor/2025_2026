@@ -179,6 +179,15 @@ p {
   * Vlastní tvorba popisu oblíbené hry
   * Někteří stihli i přidat obrázky
 
+## 13. hodina (2025-12-11)
+
+<img align="right" src="pokrocili-1-13-www-small.jpg" data-full="pokrocili-1-13-www.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-13-www2-small.jpg" data-full="pokrocili-1-13-www2.jpg" style="height:85px" class="obrazek">
+
+* [html stránky](/programovani-html)
+  * Pokračování ve tvorbě webové stránky o oblíbené hře
+  * Ke konci demonstrace co nás čeká příště (git push)
+
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>

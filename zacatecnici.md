@@ -118,6 +118,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Scratch](https://scratch.mit.edu)
   * Přidali jsme si obrázky z flashdisku do projektu betlém a začali je rozmisťovat po "herní" ploše
 
+## 13. hodina (2025-12-11)
+
+<img align="right" src="zacatecnici-1-13-scratch-small.jpg" data-full="zacatecnici-1-13-scratch.jpg" style="height:85px" class="obrazek">
+
+* [Scratch](https://scratch.mit.edu)
+  * Rozvržení scény betlému, pozadí a někdo stihl i efekty
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
