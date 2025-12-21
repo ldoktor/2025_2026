@@ -125,6 +125,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Scratch](https://scratch.mit.edu)
   * Rozvržení scény betlému, pozadí a někdo stihl i efekty
 
+## 14. hodina (2025-12-18)
+
+* [Scratch](https://scratch.mit.edu)
+  * Trochu grafických úprav a něco málo "scénářů", výsledky jsou k dispozici [zde](https://scratch.mit.edu/projects/1254618037/), [zde](https://scratch.mit.edu/projects/1251588062/), [zde](https://scratch.mit.edu/projects/1251587131/) [a také zde](https://scratch.mit.edu/projects/1251587869/)
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

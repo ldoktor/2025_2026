@@ -188,6 +188,10 @@ p {
   * Pokračování ve tvorbě webové stránky o oblíbené hře
   * Ke konci demonstrace co nás čeká příště (git push)
 
+## 14. hodina (2025-12-18)
+
+* [html stránky](/programovani-html)
+  * "Commitnutí" změn a jejich publikování do našich "vzdálených" repozitářů. Malinko jsme zápasili se nastavením (falešných) emailových adres a jmen, které jsou vyžadovány pro "git commit" a následně i se zadáním hesel, ale nakonec se zadařilo všem.
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
