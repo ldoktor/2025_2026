@@ -193,6 +193,12 @@ p {
 * [html stránky](/programovani-html)
   * "Commitnutí" změn a jejich publikování do našich "vzdálených" repozitářů. Malinko jsme zápasili se nastavením (falešných) emailových adres a jmen, které jsou vyžadovány pro "git commit" a následně i se zadáním hesel, ale nakonec se zadařilo všem.
 
+## 15. hodina (2026-01-08)
+
+* [html stránky](/programovani-html)
+  * Dodělání stránek
+  * Ti co měli hotovo se pokusili vylepšit styl stránky pomocí vlastních CSS stylů
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

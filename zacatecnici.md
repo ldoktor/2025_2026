@@ -130,6 +130,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Scratch](https://scratch.mit.edu)
   * Trochu grafických úprav a něco málo "scénářů", výsledky jsou k dispozici [zde](https://scratch.mit.edu/projects/1254618037/), [zde](https://scratch.mit.edu/projects/1251588062/), [zde](https://scratch.mit.edu/projects/1251587131/) [a také zde](https://scratch.mit.edu/projects/1251587869/)
 
+## 15. hodina (2026-01-08)
+
+<img align="right" src="zacatecnici-1-15-boffin-small.jpg" data-full="zacatecnici-1-15-boffin.jpg" style="height:85px" class="obrazek">
+
+* Elektrická stavebnice Boffin
+  * S pomocí [videa](https://www.youtube.com/watch?v=3KePcASD0NQ) jsme si řekli něco málo o elektřině
+  * Následně jsme vyzkoušeli několik zapojení stavebnice Boffin
+
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
