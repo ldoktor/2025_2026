@@ -138,6 +138,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * S pomocí [videa](https://www.youtube.com/watch?v=3KePcASD0NQ) jsme si řekli něco málo o elektřině
   * Následně jsme vyzkoušeli několik zapojení stavebnice Boffin
 
+## 16. hodina (2026-01-15)
+
+<img align="right" src="zacatecnici-1-16-baterie-small.jpg" data-full="zacatecnici-1-16-baterie.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-16-boffin-small.jpg" data-full="zacatecnici-1-16-boffin.jpg" style="height:85px" class="obrazek">
+
+* Elektrická stavebnice Boffin
+  * Seřazení baterií podle jejich velikosti, následně měření jejich napětí multimetrem a seřazení dle jejich "síly" (napětí, jak moc budou tlačit na ty volné elektrony)
+  * Různá zapojení a experimenty
+
 
 * * * * * * * * *
 

@@ -199,6 +199,17 @@ p {
   * Dodělání stránek
   * Ti co měli hotovo se pokusili vylepšit styl stránky pomocí vlastních CSS stylů
 
+## 16. hodina (2026-01-15)
+
+<img align="right" src="pokrocili-1-16-ai-small.jpg" data-full="pokrocili-1-16-ai.jpg" style="height:85px" class="obrazek">
+
+* [html stránky](/programovani-html)
+  * Kaskádové styly (CSS)
+  * Seznámení s LLM (large language models = velké jazykové modely), co to je, co to není, [pěkné video od NEZkreslené vědy](https://www.youtube.com/watch?v=Wg9gbEa28D8)
+  * Použití AI ke generování CSS k naší stránce, následné dotváření a úpravy s jejím využitím
+* Boffin
+  * Někteří si chtěli dát od HTML pauzu a tak raději zapojovali různá zapojení ze stavebnic Boffin
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
