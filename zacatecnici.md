@@ -147,6 +147,20 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Seřazení baterií podle jejich velikosti, následně měření jejich napětí multimetrem a seřazení dle jejich "síly" (napětí, jak moc budou tlačit na ty volné elektrony)
   * Různá zapojení a experimenty
 
+* * * * * * * * *
+
+## 17. hodina (2026-01-22)
+
+<img align="right" src="zacatecnici-2-01-tesla-small.jpg" data-full="zacatecnici-2-01-tesla.jpg" style="height:85px" class="obrazek">
+
+* Elektrická stavebnice Boffin
+  * Přiblížení co je to [napětí pomocí pěkného videa](https://www.youtube.com/watch?v=w82aSjLuD_8&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=4)
+  * Různá zapojení
+  * [Teslův transformátor](https://cs.wikipedia.org/wiki/Tesl%C5%AFv_transform%C3%A1tor)
+    * malinký transformátor z Aliexpresu
+    * vytahování oblouku pomocí klíčů
+    * bezdrátové rozsvěcení úsporných žárovek, diod a tlumivek
+    * přehrávání hudby pomocí jiskření (se nám nepovedlo)
 
 * * * * * * * * *
 

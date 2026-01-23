@@ -210,6 +210,22 @@ p {
 * Boffin
   * Někteří si chtěli dát od HTML pauzu a tak raději zapojovali různá zapojení ze stavebnic Boffin
 
+* * * * * * * * * * * *
+
+## 17. hodina (2026-01-22)
+
+* [html stránky](/programovani-html)
+  * Dokončení "šílených" stylů
+  * Naše stránky (zpravidla ve 2 verzích, základní a šílená):
+    * [crazygames](https://ldoktor.github.io/programovani-html/crazigames.html), [šílená](https://ldoktor.github.io/programovani-html/crazigames-crazy.html)
+    * [polybridge](https://ldoktor.github.io/programovani-html/polybrige.html), [šílená](https://ldoktor.github.io/programovani-html/polybrige-crazy.html)
+    * [fifa](https://ldoktor.github.io/programovani-html/fifa%2026.html), [šílená](https://ldoktor.github.io/programovani-html/fifa%2026-crazy.html)
+    * [car master](https://ldoktor.github.io/programovani-html/car%20master.html)
+    * [block blast](https://ldoktor.github.io/programovani-html/blokblast.html), [šílená](https://ldoktor.github.io/programovani-html/blokblast-crazy.html)
+* Boffin
+  * Někdo opět raději zapojoval elektronické obvody pomocí stavebnice Boffin
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
