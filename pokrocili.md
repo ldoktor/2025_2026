@@ -225,6 +225,18 @@ p {
 * Boffin
   * Někdo opět raději zapojoval elektronické obvody pomocí stavebnice Boffin
 
+## 18. hodina (2026-02-05)
+
+<img align="right" src="pokrocili-2-02-vytah4-small.jpg" data-full="pokrocili-2-02-vytah4.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-02-vytah3-small.jpg" data-full="pokrocili-2-02-vytah3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-02-vytah2-small.jpg" data-full="pokrocili-2-02-vytah2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-02-vytah-small.jpg" data-full="pokrocili-2-02-vytah.jpg" style="height:85px" class="obrazek">
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * Sestavení výtahu
+  * Rozvedení napájení pomocí bread-boardů z trafa
+  * Test výtahu připojením napájení přes tlačítko na větráčky, ovládání ručním přerušováním
+
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>

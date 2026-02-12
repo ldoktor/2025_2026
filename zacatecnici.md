@@ -162,6 +162,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * bezdrátové rozsvěcení úsporných žárovek, diod a tlumivek
     * přehrávání hudby pomocí jiskření (se nám nepovedlo)
 
+## 18. hodina (2026-02-05)
+
+* Elektrická stavebnice Boffin
+  * Boffin-hry
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
