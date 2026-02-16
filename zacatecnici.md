@@ -167,6 +167,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Elektrická stavebnice Boffin
   * Boffin-hry
 
+## 19. hodina (2026-02-12)
+
+<img align="right" src="zacatecnici-2-03-code-org-small.jpg" data-full="zacatecnici-2-03-code-org.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-03-vytah-small.jpg" data-full="zacatecnici-2-03-vytah.jpg" style="height:85px" class="obrazek">
+
+* Krátká ukázka [vzduchového výtahu](https://ldoktor.github.io/2025_2026/pokrocili#18-hodina-2026-02-05) který letos tvoříme s pokročilími
+* [code.org](https://www.code.org)
+  * dokončení "malíře" a začátek "cyklů s Rey a BB-8"
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

@@ -237,6 +237,14 @@ p {
   * Rozvedení napájení pomocí bread-boardů z trafa
   * Test výtahu připojením napájení přes tlačítko na větráčky, ovládání ručním přerušováním
 
+## 19. hodina (2026-02-12)
+
+<img align="right" src="pokrocili-2-03-vytah-small.jpg" data-full="pokrocili-2-03-vytah.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-vytah2-small.jpg" data-full="pokrocili-2-03-vytah2.jpg" style="height:85px" class="obrazek">
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * Připojení větráčku k microbitu pomocí H-můstku [zde](https://ldoktor.github.io/assets/microbit/vytah#zapojen%C3%AD)
+  * Programování testovacího kódu, který umožní nastavit manuálně výkon větráčku [zde](https://ldoktor.github.io/assets/microbit/vytah#detekce-pater)
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
