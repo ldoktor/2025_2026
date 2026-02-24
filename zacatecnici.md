@@ -176,6 +176,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [code.org](https://www.code.org)
   * dokončení "malíře" a začátek "cyklů s Rey a BB-8"
 
+## 20. hodina (2026-02-19)
+
+<img align="right" src="zacatecnici-2-04-alarm-small.jpg" data-full="zacatecnici-2-04-alarm.jpg" style="height:85px" class="obrazek">
+
+* Konfigurace Alarmu s více zónami, osvojení základních funkcí a termínů ohledně zabezpečovacích zařízení
+* [code.org](https://www.code.org)
+  * cykly s Rey a BB-8
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

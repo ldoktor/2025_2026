@@ -246,6 +246,15 @@ p {
   * Připojení větráčku k microbitu pomocí H-můstku [zde](https://ldoktor.github.io/assets/microbit/vytah#zapojen%C3%AD)
   * Programování testovacího kódu, který umožní nastavit manuálně výkon větráčku [zde](https://ldoktor.github.io/assets/microbit/vytah#detekce-pater)
 
+## 20. hodina (2026-02-19)
+
+<img align="right" src="pokrocili-2-04-vytah-small.jpg" data-full="pokrocili-2-04-vytah.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-04-vytah2-small.jpg" data-full="pokrocili-2-04-vytah2.jpg" style="height:85px" class="obrazek">
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * [Testovací program s manuálním nastavením výkonu větráčku](https://ldoktor.github.io/assets/microbit/vytah#detekce-pater)
+  * zápis key/value do sériové konzole a zobrazení v prostředí makecode microbit
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
