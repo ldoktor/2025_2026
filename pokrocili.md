@@ -255,6 +255,23 @@ p {
   * [Testovací program s manuálním nastavením výkonu větráčku](https://ldoktor.github.io/assets/microbit/vytah#detekce-pater)
   * zápis key/value do sériové konzole a zobrazení v prostředí makecode microbit
 
+## 21. hodina (2026-02-26)
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * Dokončení testovacího programu, zjištění úrovní pro jednotlivá patra a začátek programování kódu pro jednotlivá patra (ovládání)
+
+## 22. hodina (2026-03-05)
+
+<img align="right" src="pokrocili-2-06-vytah-small.jpg" data-full="pokrocili-2-06-vytah.jpg" style="height:85px" class="obrazek">
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * Dokončení jednoduchého výtahu (ovládání)
+  * Testování a zjištění, že při ovládání záleží na výtahu/zatížení/napájecím napětí a naše hodnoty z minulé lekce zpravidla vůbec nefungovaly. Výtah se pohyboval, ale neustálil se v kýžených patrech.
+  * Lehký úvod k "ovládání" (bez zpětné vazby, nastavím hodnoty a doufám) vs. "řízení" (se zpětnou vazbou, změřím odchylku a upravím vstup)
+  * Tvorba uchycení senzoru vzdálenosti (sonar)
+* Train Simulator
+  * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu.
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

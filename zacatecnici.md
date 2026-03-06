@@ -184,6 +184,20 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [code.org](https://www.code.org)
   * cykly s Rey a BB-8
 
+## 21. hodina (2026-02-26)
+
+* [code.org](https://www.code.org)
+  * cykly s Rey a BB-8 a Razítka v cyklech
+
+## 22. hodina (2026-03-05)
+
+<img align="right" src="zacatecnici-2-06-train-simulator-small.jpg" data-full="zacatecnici-2-06-train-simulator.jpg" style="height:85px" class="obrazek">
+
+* [code.org](https://www.code.org)
+  * Razítka v cyklech a začátek Vnořených cyklů v bludišti
+* Train Simulator
+  * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu.
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
