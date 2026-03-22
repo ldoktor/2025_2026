@@ -198,6 +198,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Train Simulator
   * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu.
 
+## 23. hodina (2026-03-19)
+
+<img align="right" src="zacatecici-2-07-train-simulator-small.jpg" data-full="zacatecici-2-07-train-simulator.jpg" style="height:85px" class="obrazek">
+
+* [code.org](https://www.code.org)
+  * Razítka v cyklech a začátek Vnořených cyklů v bludišti
+* Train Simulator
+  * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu. Letos opět nikdo nedobrzdil na konci slepé koleje :-).
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

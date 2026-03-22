@@ -272,6 +272,15 @@ p {
 * Train Simulator
   * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu.
 
+## 23. hodina (2026-03-19)
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * Dokončení uchycení senzoru vzdálenosti
+  * Programování jednoduchého kódu na odečet vzdálenosti při nastaveném výkonu větráčku
+* Train Simulator
+  * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu.
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
