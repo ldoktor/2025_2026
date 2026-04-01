@@ -280,6 +280,12 @@ p {
 * Train Simulator
   * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu.
 
+## 24. hodina (2026-03-26)
+
+<img align="right" src="pokrocili-2-08-vytah-small.jpg" data-full="pokrocili-2-08-vytah.jpg" style="height:85px" class="obrazek">
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * Odečet vzdáleností pro jednotlivá patra (a trochu hraní s výtahem)
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>

@@ -207,6 +207,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Train Simulator
   * Pro rozptýlení a zajímavost úkol rozjet lokomotivu <a href="https://rw.jachyhm.cz/download/2017/09/cd-754/">ČD 750 (Brejlovec)</a> s realistickým ovládáním ve hře <a href="https://store.steampowered.com/app/24010/Train_Simulator_2022/">Train Simulator 2022</a> podle návodu. Letos opět nikdo nedobrzdil na konci slepé koleje :-).
 
+## 24. hodina (2026-03-26)
+
+<img align="right" src="zacatecnici-2-08-hrm-small.jpg" data-full="zacatecnici-2-08-hrm.jpg" style="height:85px" class="obrazek">
+
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+  * Malinko jiný styl programování, blíže k Assembleru
+  * návod ([pdf](../assets/hrm.pdf), [odt](../assets/hrm.odt)); diagram procesoru ([pdf](../assets/processor.pdf), [odt](../assets/processor.ods))
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
