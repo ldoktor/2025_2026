@@ -287,6 +287,11 @@ p {
 * [Vzduchový výtah](../assets/microbit/vytah)
   * Odečet vzdáleností pro jednotlivá patra (a trochu hraní s výtahem)
 
+## 25. hodina (2026-04-09)
+
+* [Vzduchový výtah](../assets/microbit/vytah)
+  * Jednoduché řízení (v nekonečné smyčce se ptám, je vzdálenost větší, než má být? Pokud ano, uber výkon, pokud ne, přidej výkon)
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

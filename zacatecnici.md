@@ -215,6 +215,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Malinko jiný styl programování, blíže k Assembleru
   * návod ([pdf](../assets/hrm.pdf), [odt](../assets/hrm.odt)); diagram procesoru ([pdf](../assets/processor.pdf), [odt](../assets/processor.ods))
 
+## 25. hodina (2026-04-09)
+
+<img align="right" src="zacatecnici-2-09-hrm-small.jpg" data-full="zacatecnici-2-09-hrm.jpg" style="height:85px" class="obrazek">
+
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+  * Nekonečná smyčka, sčítání, násobení pomocí sčítání, násobení velkým číslem pomocí sčítání, ...
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
