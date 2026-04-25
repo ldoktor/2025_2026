@@ -292,6 +292,14 @@ p {
 * [Vzduchový výtah](../assets/microbit/vytah)
   * Jednoduché řízení (v nekonečné smyčce se ptám, je vzdálenost větší, než má být? Pokud ano, uber výkon, pokud ne, přidej výkon)
 
+## 26. hodina (2026-04-23)
+
+<img align="right" src="pokrocili-2-10-freecad-small.jpg" data-full="pokrocili-2-10-freecad.jpg" style="height:85px" class="obrazek">
+
+* [FreeCAD](https://www.freecad.org/)
+  * Seznámení s programem
+  * První součástka - držák na koberec na schody
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

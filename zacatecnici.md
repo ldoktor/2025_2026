@@ -222,6 +222,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
   * Nekonečná smyčka, sčítání, násobení pomocí sčítání, násobení velkým číslem pomocí sčítání, ...
 
+## 26. hodina (2026-04-23)
+
+<img align="right" src="zacatecnici-2-10-binary-small.jpg" data-full="zacatecnici-2-10-binary.jpg" style="height:85px" class="obrazek">
+
+* [Dvojkové vs. desítkové soustavy čísel](../assets/binary.pdf)
+  * Lidé používají desítkovou soustavu (označení často dec), počítače zpravidla dvojkovou (jinak binární či jen bin)
+  * Základní funkce a sčítání prakticky
+  * Seznámení s šířkou paměti (4b, 8b, 16b, 32b, 64b, ...) a rozsahy čísel (16, 256, 65536, 4294967296, 18446744073709551616, ...)
+  * Co mohou znamenat stejná čísla v paměti? (např. ``11100001 => 0xE1 => 'á' => 225 => -31 => 10^13 => -2.25 => LOOPZ rel8``)
+  * [Více detailů v PDF](../assets/binary.pdf) ([odt](../../assets/binary.pdf))
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">
