@@ -233,6 +233,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Co mohou znamenat stejná čísla v paměti? (např. ``11100001 => 0xE1 => 'á' => 225 => -31 => 10^13 => -2.25 => LOOPZ rel8``)
   * [Více detailů v PDF](../assets/binary.pdf) ([odt](../../assets/binary.pdf))
 
+## 27. hodina (2026-04-30)
+
+<img align="right" src="zacatecnici-2-11-hrm-small.jpg" data-full="zacatecnici-2-11-hrm.jpg" style="height:85px" class="obrazek">
+
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+  * Speedrun (opakování předchozích levelů, někteří se dostali i dál)
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+  * Koho již HRM nudilo, prošel si pár levelů psaní na klávesnice
+  * Vždy koukáme pouze na monitor
+  * Ruce si položíme na klávesnici a nahmatáme 2 výběžky na klávesách ``F`` a ``G``
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

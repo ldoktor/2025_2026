@@ -300,6 +300,23 @@ p {
   * Seznámení s programem
   * První součástka - držák na koberec na schody
 
+## 27. hodina (2026-04-30)
+
+* [FreeCAD](https://www.freecad.org/)
+  * Pokračování v "držáku na koberec na schody"
+  * Vytvoříme součástku
+  * Vytvoříme sketch (nákres)
+    * Zvolíme vhodnou rovinu (XY, XZ, YZ) našeho nákresu
+    * Načrtneme přibližnou součástku, ignorujeme prosté zaoblení hran
+    * Postupně přidáváme constrains (vazby/omezení), zpravidla délky stran či vzdálenosti bodů v určitém směru, případně rovnoběžnost, svislost, pravý úhel, ...
+    * Pokračujeme dokud není sketch (nákres) plně zavazbený (odstraním nepotřebné vazby, pokud je převazbený) a zavřeme jej.
+  * Zvolíme vhodnou operaci
+    * deska, otáčka, součtové profilování, ... - vytáhne/orotuje/proloží náš nákres a přičte k existujícímu tělesu
+    * kapsa, orvor, drážka, odečtové profilování, ... - odřízne náš nákres z existujícího tělesa
+  * Pokud je vhodné, využijeme zrcadlení či lineární/kruhové pole pro opakování stejného vzoru
+  * Opakujeme dokud nejsme spokojeni s základním tvarem
+  * Na závěr můžeme některé hrany zaoblit/zkosit (tuto operaci lze využít i na nehotový objekt, ale doporučuje se používat až na závěr)
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
