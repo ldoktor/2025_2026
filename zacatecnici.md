@@ -244,6 +244,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Vždy koukáme pouze na monitor
   * Ruce si položíme na klávesnici a nahmatáme 2 výběžky na klávesách ``F`` a ``G``
 
+## 28. hodina (2026-05-07)
+
+<img align="right" src="zacatecnici-2-12-mario-small.jpg" data-full="zacatecnici-2-12-mario.jpg" style="height:85px" class="obrazek">
+
+* Psaní všemi deseti
+  * Klávesnice - výběžky na ``F`` a ``G``, jaké klávesy obsluhuje jaký prst, speciální klávesy (home/end, esc, funkční klávesy, zkratky, ...)
+  * [s pomocí Mária](https://archive.org/details/TYPING_VGA)
+  * [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

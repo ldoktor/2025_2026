@@ -317,6 +317,11 @@ p {
   * Opakujeme dokud nejsme spokojeni s základním tvarem
   * Na závěr můžeme některé hrany zaoblit/zkosit (tuto operaci lze využít i na nehotový objekt, ale doporučuje se používat až na závěr)
 
+## 28. hodina (2026-05-07)
+
+* [FreeCAD](https://www.freecad.org/)
+  * Tvorba kladky
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
