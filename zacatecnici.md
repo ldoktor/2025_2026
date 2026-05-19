@@ -253,6 +253,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * [s pomocí Mária](https://archive.org/details/TYPING_VGA)
   * [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
 
+## 29. hodina (2026-05-14)
+
+<img align="right" src="zacatecnici-2-13-pc-small.jpg" data-full="zacatecnici-2-13-pc.jpg" style="height:85px" class="obrazek">
+
+* Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí. Test ochrany proti přehřátí (thermal throttling) pomocí upravené hry housenka a odstranění chladiče.
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

@@ -322,6 +322,14 @@ p {
 * [FreeCAD](https://www.freecad.org/)
   * Tvorba kladky
 
+## 29. hodina (2026-05-14)
+
+<img align="right" src="pokrocili-2-13-blender-small.jpg" data-full="pokrocili-2-13-blender.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-13-freecad-small.jpg" data-full="pokrocili-2-13-freecad.jpg" style="height:85px" class="obrazek">
+
+* [FreeCAD](https://www.freecad.org/)
+  * Tvorba jednoduchého přívěšku/medaile/...
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
