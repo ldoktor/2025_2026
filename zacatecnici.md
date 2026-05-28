@@ -259,6 +259,29 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí. Test ochrany proti přehřátí (thermal throttling) pomocí upravené hry housenka a odstranění chladiče.
 
+## 30. hodina (2026-05-21)
+
+<img align="right" src="zacatecnici-2-14-old-small.jpg" data-full="zacatecnici-2-14-old.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-14-old2-small.jpg" data-full="zacatecnici-2-14-old2.jpg" style="height:85px" class="obrazek">
+
+* Staré operační systémy
+  * Vyzkoušeli jsme si práci s [DOSem](../assets/oldpc/dos.pdf) ([odt](../assets/oldpc/dos.odt)), [Windows 3.11](../assets/oldpc/win311.pdf) ([odt](../assets/oldpc/win311.odt)), [Windows 95/98](../assets/oldpc/win95.pdf) ([odt](../assets/oldpc/win95.odt)) a [Mac OS9](../assets/oldpc/macos9.pdf) ([odt](../assets/oldpc/macos9.odt))
+  * Nejprve jsme vytvořili textový dokument s různými styly
+  * Následně jsme vytvořili obrázek a pokud to program umožňoval, vložili jej do textového dokumentu
+  * Na závěr jsme otestovali dobové hry
+
+## 31. hodina (2026-05-28)
+
+<img align="right" src="zacatecnici-2-15-old-small.jpg" data-full="zacatecnici-2-15-old.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-15-old2-small.jpg" data-full="zacatecnici-2-15-old2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-15-old3-small.jpg" data-full="zacatecnici-2-15-old3.jpg" style="height:85px" class="obrazek">
+
+* Staré operační systémy
+  * Vyzkoušeli jsme si práci s [DOSem](../assets/oldpc/dos.pdf) ([odt](../assets/oldpc/dos.odt)), [Windows 3.11](../assets/oldpc/win311.pdf) ([odt](../assets/oldpc/win311.odt)), [Windows 95/98](../assets/oldpc/win95.pdf) ([odt](../assets/oldpc/win95.odt)) a [Mac OS9](../assets/oldpc/macos9.pdf) ([odt](../assets/oldpc/macos9.odt))
+  * Nejprve jsme vytvořili textový dokument s různými styly
+  * Následně jsme vytvořili obrázek a pokud to program umožňoval, vložili jej do textového dokumentu
+  * Na závěr jsme otestovali dobové hry
+
 * * * * * * * * *
 
 <div id="overlay" class="overlay hidden">

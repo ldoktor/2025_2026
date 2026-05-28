@@ -330,6 +330,39 @@ p {
 * [FreeCAD](https://www.freecad.org/)
   * Tvorba jednoduchého přívěšku/medaile/...
 
+## 30. hodina (2026-05-21)
+
+* [FreeCAD](https://www.freecad.org/)
+  * Přidání textu:
+
+    1. přepnout na pracovní prostředí ``Draft``
+    2. použít ``Shape from text`` na vložení našeho textu (vždy jednu řádku)
+    3. posunout text na požadované místo pomocí ``Transformace`` (pravé tlačítko na prvku)
+    4. přesunout vytovřený ``ShapeString`` v panelu ``Model`` do našeho tělesa
+    5. přepnout zpět na pracovní prostředi ``Part design``
+    6. použít ``Deska``, ``Kapsa`` či jinou operaci abychom z našeho plochého objektu vytvořili trojrozměrný tvar
+
+  * Pozor, vždy musí vzniknout jeden souvislý objekt, což bývá nejčastěji problém při operaci ``Kapsa``, kdy mohou vznikat ostrůvky (např pokud vytlačíme ``o`` skrz celý objekt, vznikne nám samostatný kroužek uprostřed, což není možné. Řešením je nevytlačovat skrz celý objekt, speciální font bez ostrůvků, nebo propojení ostrůvků pomocí obdélníčků)
+
+## 31. hodina (2026-05-28)
+
+<img align="right" src="pokrocili-2-15-freecad-small.jpg" data-full="pokrocili-2-15-freecad.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-15-freecad2-small.jpg" data-full="pokrocili-2-15-freecad2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-15-freecad3-small.jpg" data-full="pokrocili-2-15-freecad3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-15-freecad4-small.jpg" data-full="pokrocili-2-15-freecad4.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-15-freecad5-small.jpg" data-full="pokrocili-2-15-freecad5.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-15-old-small.jpg" data-full="pokrocili-2-15-old.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-15-old2-small.jpg" data-full="pokrocili-2-15-old2.jpg" style="height:85px" class="obrazek">
+
+* [FreeCAD](https://www.freecad.org/)
+  * Zaoblení a sražení hran
+* Staré operační systémy
+  * Vyzkoušeli jsme si práci s [DOSem](../assets/oldpc/dos.pdf) ([odt](../assets/oldpc/dos.odt)), [Windows 3.11](../assets/oldpc/win311.pdf) ([odt](../assets/oldpc/win311.odt)), [Windows 95/98](../assets/oldpc/win95.pdf) ([odt](../assets/oldpc/win95.odt)) a [Mac OS9](../assets/oldpc/macos9.pdf) ([odt](../assets/oldpc/macos9.odt))
+  * Nejprve jsme vytvořili textový dokument s různými styly
+  * Následně jsme vytvořili obrázek a pokud to program umožňoval, vložili jej do textového dokumentu
+  * Na závěr jsme otestovali dobové hry
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
