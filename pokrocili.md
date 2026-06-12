@@ -362,6 +362,16 @@ p {
   * Následně jsme vytvořili obrázek a pokud to program umožňoval, vložili jej do textového dokumentu
   * Na závěr jsme otestovali dobové hry
 
+## 32. hodina (2026-06-04)
+
+<img align="right" src="zacatecnici-2-16-old-small.jpg" data-full="zacatecnici-2-16-old.jpg" style="height:85px" class="obrazek">
+
+* Staré operační systémy
+  * Průlet hrami od roku 1982 po 1998
+  * Doma můžete zkusit [online hry na archive.org](https://archive.org/details/softwarelibrary_msdos_games)
+  * Pokud se vám staré hry zalíbí, doporučuji nainstalovat [DOSBox-X](https://dosbox-x.com/) či [DOSBox](https://www.dosbox.com/index.php), mnoho her je k dispozici ke stažení jako abandonware (pozor na viry a licence, stará hra != abandonware)
+  * Mnohé jsou upraveny pro instalaci na nových počítačích ke koupi na [GOG](https://www.gog.com/en/)
+* Předání diplomů a malých dárečků
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
