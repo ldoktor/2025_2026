@@ -364,7 +364,12 @@ p {
 
 ## 32. hodina (2026-06-04)
 
-<img align="right" src="zacatecnici-2-16-old-small.jpg" data-full="zacatecnici-2-16-old.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-old-small.jpg" data-full="pokrocili-2-16-old.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-old2-small.jpg" data-full="pokrocili-2-16-old2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-old3-small.jpg" data-full="pokrocili-2-16-old3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-old4-small.jpg" data-full="pokrocili-2-16-old4.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-old5-small.jpg" data-full="pokrocili-2-16-old5.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-old6-small.jpg" data-full="pokrocili-2-16-old6.jpg" style="height:85px" class="obrazek">
 
 * Staré operační systémy
   * Průlet hrami od roku 1982 po 1998
